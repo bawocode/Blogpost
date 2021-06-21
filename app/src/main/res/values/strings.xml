@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsLive</string>
+    <string name="post_body">My name is bawo Amewieye, i am a software engineer, i just want to say thank you for everything.....</string>
+    <string name="appName">NewsLive</string>
+    <string name="search">search</string>
+    <string name="title">Title</string>
+    <string name="add_post_button">Add post button</string>
+</resources>
